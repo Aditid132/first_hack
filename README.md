@@ -1,4 +1,5 @@
 # first_hack
 Creating first project for local hackday.
-<body><bgcolor="blue"
+<body><bgcolor="blue">
 <fontcolor="red">
+  </html>
