@@ -1,5 +1,4 @@
 # first_hack
-Creating first project for local hackday.
-<body><bgcolor="blue">
-<fontcolor="red">
-  </html>
+#write hello world in a new language
+
+I tried using java to write to the same.
